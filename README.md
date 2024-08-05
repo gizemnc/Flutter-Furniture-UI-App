@@ -2,7 +2,8 @@ Flutter Furniture App
 
 Bu proje Flutter kullanılarak oluşturulmuştur. Uygulama, çeşitli mobilya ürünlerini sergiler,
 kullanıcıların detaylı bilgileri görüntülemesine olanak tanır ve kullanıcı dostu bir sepet sistemi ile sorunsuz bir alışveriş deneyimi sunar. 
-Uygulama, Firebase ile kimlik doğrulama sağlar ve sahte bir API üzerinden ürün bilgilerini çeker.
+Uygulama, Firebase ile kimlik doğrulama sağlar ve sahte bir API üzerinden ürün bilgilerini çeker. Bu bilgiler internette bulunan bir API aracılığı ile çekilir.
+API'de 24 adet mobilya bilgisi ve detayları yer alır. Sade bir arayüzle bu bilgiler anasayfada listelenir.
 
 Özellikler
 
