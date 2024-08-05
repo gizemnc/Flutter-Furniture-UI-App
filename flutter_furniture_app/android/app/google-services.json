@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "1076338800113",
+    "project_id": "flutter-furniture-app-5aae2",
+    "storage_bucket": "flutter-furniture-app-5aae2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076338800113:android:7aa4fc8141bb6350d0c050",
+        "android_client_info": {
+          "package_name": "com.gizemnur.flutter_furniture_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076338800113-banothb0lqos1dmf4j862utusbcm0b43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gizemnur.flutter_furniture_app",
+            "certificate_hash": "af92e932b1e40254a71589e43f9611da12b29856"
+          }
+        },
+        {
+          "client_id": "1076338800113-qajs0s931ea1eq8b741bthlouu6kpfo3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gizemnur.flutter_furniture_app",
+            "certificate_hash": "08cfa6ae36ae93186fc774e6e41c6c483c02bb74"
+          }
+        },
+        {
+          "client_id": "1076338800113-lv68qmfooo5eqghl1idffnlbr56j1mdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA78fw3ll_e3gNNtiFdT_UjTCfNeMcT_NM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076338800113-lv68qmfooo5eqghl1idffnlbr56j1mdf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1076338800113-q656mc2qd24ifcr6pvr61oha4qmgcql4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterFurnitureApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
